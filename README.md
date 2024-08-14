@@ -1,1 +1,1 @@
-# AImply (early development)
+# AImply (early dev)
