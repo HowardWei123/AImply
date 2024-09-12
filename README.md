@@ -1,3 +1,3 @@
 # AImply
 
-Analyzes sentences spoken within a context which helps better understand underlying meaning.
+Analyzes sentiment behind the sentence and generates the implied meaning of the sentence.
